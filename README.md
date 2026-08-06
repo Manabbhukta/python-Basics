@@ -11,3 +11,6 @@ This is my first GitHub repository where I practice Python codes.
 Learn Python step by step and build projects for my job.
 
 Thank you for visiting!
+## My Projects
+- `calculator.py` → Basic Calculator
+- `book.py` → Contact Book App with Add, Search, Delete
