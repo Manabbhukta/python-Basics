@@ -14,3 +14,4 @@ Thank you for visiting!
 ## My Projects
 - `calculator.py` → Basic Calculator
 - `book.py` → Contact Book App with Add, Search, Delete
+  grad_calculator.py
