@@ -7,13 +7,13 @@ def show_menu():
     print("3. Search Contact")
     print("4. Delete Contact")
     print("5. Exit")
-    print("========================")
+    print()
 
 def add_contact():
     name = input("Enter Name: ")
     phone = input("Enter Phone Number: ")
     contacts[name] = phone
-    print(f"'{name}' added successfully ✅")
+    print(f"'{name}' added successfully")
 
 def view_contacts():
     if len(contacts) == 0:
