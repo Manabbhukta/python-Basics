@@ -3,13 +3,13 @@
 tasks = []  # List to store all tasks
 
 def show_tasks():
-    print("\n--- Your To-Do List ---")
+    print("\n--- Your To-Do List")
     if len(tasks) == 0:
         print("No tasks yet!")
     else:
         for i, task in enumerate(tasks, 1):
             print(f"{i}. {task}")
-    print("------------------------")
+    print()
 
 def add_task():
     task = input("Enter a new task: ")
@@ -38,11 +38,11 @@ while True:
     
     choice = input("Choose an option: ")
     
-    if choice == '1':
+    if choice ='1':
         show_tasks()
-    elif choice == '2':
+    elif choice ='2':
         add_task()
-    elif choice == '3':
+    elif choice ='3':
         delete_task()
     elif choice == '4':
         print("Goodbye! Complete your tasks")
