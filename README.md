@@ -25,3 +25,5 @@ Thank you for visiting!
 - `book.py` → Contact Book App with Add, Search, Delete
 - `grade_calculator.py` → Student Grade Calculator with Total, Average, Percentage
 - `todo.py` → To-Do List App
+📄 Resume: https://drive.google.com/file/d/1dwkw2ffQx_b5m3TO0l2v9Jwdk_7ASrn0/view?usp=drivesdk
+🔗 LinkedIn: linkedin.com/in/manab-bhukta
